@@ -2,98 +2,98 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nombre Alumno on Nombre Apellido - Taller Producto 2021</title>
-    <link>http://maxitello.github.io/</link>
+    <link>https://maxitello.github.io/</link>
     <description>Recent content in Nombre Alumno on Nombre Apellido - Taller Producto 2021</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="http://maxitello.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate><atom:link href="https://maxitello.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Entrega 00 - Trabajos Representativos</title>
-      <link>http://maxitello.github.io/docs/entrega-00/</link>
+      <link>https://maxitello.github.io/docs/entrega-00/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-00/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-00/</guid>
       <description>Entrega 00 taller de productos. En esta oportunidad se nos solicito mostrar tres trabajos distintos que hayamos realizado con anterioridad.</description>
     </item>
     
     <item>
       <title>Entrega 01 - Estudio referentes</title>
-      <link>http://maxitello.github.io/docs/entrega-01/</link>
+      <link>https://maxitello.github.io/docs/entrega-01/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-01/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-01/</guid>
       <description>Entrega 01 taller de productos.</description>
     </item>
     
     <item>
       <title>Entrega 02 - Bocetos y Familia</title>
-      <link>http://maxitello.github.io/docs/entrega-02/</link>
+      <link>https://maxitello.github.io/docs/entrega-02/</link>
       <pubDate>Mon, 15 Mar 2021 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-02/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-02/</guid>
       <description>Entrega 02 taller de productos.</description>
     </item>
     
     <item>
       <title>Encargo 03 - Familias mobiliario</title>
-      <link>http://maxitello.github.io/docs/entrega-03/</link>
+      <link>https://maxitello.github.io/docs/entrega-03/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-03/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-03/</guid>
       <description>Encargo 03-Familias mobiliario.</description>
     </item>
     
     <item>
       <title>Encargo 04 - Entrega Grupal 01</title>
-      <link>http://maxitello.github.io/docs/entrega-04/</link>
+      <link>https://maxitello.github.io/docs/entrega-04/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-04/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-04/</guid>
       <description>Encargo 04- Avance 1 Familia.</description>
     </item>
     
     <item>
       <title>Encargo 05 - Entrega Grupal 02 </title>
-      <link>http://maxitello.github.io/docs/entrega-05/</link>
+      <link>https://maxitello.github.io/docs/entrega-05/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-05/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-05/</guid>
       <description>Encargo 05 - M &amp;amp; M.</description>
     </item>
     
     <item>
       <title>Encargo 06 - Entrega Grupal 03</title>
-      <link>http://maxitello.github.io/docs/entrega-06/</link>
+      <link>https://maxitello.github.io/docs/entrega-06/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-06/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-06/</guid>
       <description>Encargo 06 - M &amp;amp; M.</description>
     </item>
     
     <item>
       <title>Encargo 07 - Entrega Grupal 04 Final</title>
-      <link>http://maxitello.github.io/docs/entrega-07/</link>
+      <link>https://maxitello.github.io/docs/entrega-07/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/entrega-07/</guid>
+      <guid>https://maxitello.github.io/docs/entrega-07/</guid>
       <description>Encargo 07 - M &amp;amp; M.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>http://maxitello.github.io/docs/markdown/</link>
+      <link>https://maxitello.github.io/docs/markdown/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/markdown/</guid>
+      <guid>https://maxitello.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>http://maxitello.github.io/docs/ejemplo/</link>
+      <link>https://maxitello.github.io/docs/ejemplo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>http://maxitello.github.io/docs/ejemplo/</guid>
+      <guid>https://maxitello.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
